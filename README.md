@@ -1,4 +1,4 @@
-# Team Spolsh-HackCBS
+# TeamSpolsh-HackCBS6.0
 
 We created this project for the HackCBS hackathon at Shaheed Sukhdev College of Business Studies. We managed to build it from scratch in under 24 hours.
 
